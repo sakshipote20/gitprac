@@ -1,0 +1,3 @@
+git init -> creates a local git repository
+git add -> adds the files to staging area
+git commit -m "Initial commit" -> commits the changes to the file 
