@@ -1,0 +1,2 @@
+The new features deal with handling sensitive data by using .gitignore.
+Besides version control, we can also use fork and pull request for open source collaboration.
