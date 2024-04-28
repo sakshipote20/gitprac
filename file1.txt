@@ -1,1 +1,2 @@
-This is a file created for implemeting git version control.
+This is a file created for implementing GIT VERSION CONTROL SYSTEM.
+It is a way of storing verisons.
