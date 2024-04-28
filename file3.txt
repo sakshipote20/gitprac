@@ -1,2 +1,3 @@
 git remote add origin <origin.git>
 git push -u <origin name> <branch name>
+git log -> used to display the logs 
